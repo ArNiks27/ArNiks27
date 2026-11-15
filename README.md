@@ -1,7 +1,7 @@
 hi  
 
 
-im Arsenii  
+im arsenii  
 
 
 16-year-old Minecraft mod developer & 3D artist. I create custom mods,datapacks models, and textures for YouTubers and Streamers. Worked in Burenochek team(core programmer)  
