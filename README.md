@@ -10,7 +10,7 @@ im Arsenii
 My primary stack is Java (OOP) for Minecraft modding, and I am currently expanding my skills by learning Kotlin(android apps). Additionally, I am proficient in Python, which I have successfully used in competitive programming (olympiads) and official computer science exams. 
 I am currently learning Python libs and MySQL to implement them as the backend and database solution for my upcoming personal project.
 
-**commercial Minecraft Mods (for burenochek youtube channel):**
+**commercial minecraft mods (for burenochek youtube channel):**
 - [water_mod](https://github.com)
 - [minecraft-lilypad-swamp-survival-mod](https://github.com)
 - [minecraft-kazakhstan-mod](https://github.com)
